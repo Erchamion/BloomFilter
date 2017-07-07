@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpellChecker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="hashCount" Type="System.UInt32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="bloomFilterSizeLowFalsePositiveRate" Type="System.UInt32" Scope="Application">
+      <Value Profile="(Default)">3300000</Value>
+    </Setting>
+    <Setting Name="dictionaryFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\\Resources\\dictionary.txt</Value>
+    </Setting>
+    <Setting Name="bloomFilterSizeHighFalsePositiveRate" Type="System.UInt32" Scope="Application">
+      <Value Profile="(Default)">700000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
